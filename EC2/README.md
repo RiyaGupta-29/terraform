@@ -97,5 +97,7 @@ terraform plan
 To destroy the resources created by this configuration, run:
 ```bash
 terraform destroy
+   ```
 
-<img width="1891" height="747" alt="Screenshot 2025-08-05 205538" src="https://github.com/user-attachments/assets/9fd13040-c0a4-4866-899d-3d03651c1705" />
+## Result
+<img width="1891" height="747" alt="Screenshot 2025-08-05 205538" src="https://github.com/user-attachments/assets/ef5dcc8a-03c9-4b15-86cc-bbf33f7c75d2" />
